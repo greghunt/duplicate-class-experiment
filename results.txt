@@ -1,0 +1,23 @@
+6.2K 27 Sep 13:48 duplicates.css
+156K 27 Sep 13:48 duplicates.html
+6.2K 27 Sep 13:48 leaner.css
+156K 27 Sep 13:48 leaner.html
+2.1K 27 Sep 13:26 node_modules
+ 50K 27 Sep 13:26 package-lock.json
+440B 27 Sep 13:48 package.json
+  0B 27 Sep 13:45 results.txt
+128B 27 Sep 13:43 src
+177B 27 Sep 13:26 tailwind.config.js
+ 
+=======
+
+6.2K 27 Sep 13:48 duplicates.css
+156K 27 Sep 13:56 duplicates.html
+7.0K 27 Sep 13:58 leaner.css
+131K 27 Sep 13:57 leaner.html
+2.1K 27 Sep 13:26 node_modules
+ 50K 27 Sep 13:26 package-lock.json
+440B 27 Sep 13:48 package.json
+385B 27 Sep 13:55 results.txt
+128B 27 Sep 13:43 src
+177B 27 Sep 13:26 tailwind.config.js

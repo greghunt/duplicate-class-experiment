@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply max-w-screen-md mx-auto p-12 bg-slate-500 h-screen;
+}
+
+ul {
+    @apply shadow-2xl p-12 bg-slate-800 rounded-xl border-4 border-white/60 h-full overflow-y-scroll;
+}
+
+li {
+    @apply text-sm text-slate-300 font-bold odd:bg-slate-900 px-4 py-3 rounded-sm flex items-center justify-between;
+}
